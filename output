@@ -1,0 +1,12 @@
+output 1:
+      Not Normal Temperature
+      Temperature : 22.73
+      moisture val : 0
+output 2:
+      Not Normal Temperature
+      Temperature : 60.85
+      moisture val : 97
+output 3:
+      Not Normal Temperature
+      Temperature : 78.93
+      moisture val : 712
